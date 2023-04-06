@@ -6,6 +6,6 @@
 The goal of this lab was to introduce ourselves to using SSH, navigating through terminal, and GitHub to creare content. 
 
 ## ***How did it go?***
-1. Resetting password for CSE15L account: [Reset Tool](pwResetSS.png)
+1. Resetting password for CSE15L account: ![Reset Tool](pwResetSS.png)
 2. 
 
