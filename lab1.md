@@ -7,5 +7,5 @@ The goal of this lab was to introduce ourselves to using SSH, navigating through
 
 ## ***How did it go?***
 1. Resetting password for CSE15L account: ![Reset Tool](pwResetSS.png)
-^I reset my password before class, and it went pretty smoothly^
+<sub><sup>I reset my password before class, and it went pretty smoothly^</sup></sub>
 
