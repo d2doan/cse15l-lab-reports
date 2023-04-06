@@ -10,4 +10,4 @@ The goal of this lab was to introduce ourselves to using SSH, navigating through
 <sub>I reset my password before class, and it went pretty smoothly.</sub>
 
 2. Starting up VSCode and opening a terminal: ![VSCode](vscodeSS.png)
-3. Successfully logging into SSH through *ieng6* client (*not sure if this is the right terminology?*): [SSH log](SSH login.png)
+3. Successfully logging into SSH through *ieng6* client (*not sure if this is the right terminology?*): [SSH log](SSHlogin.png)
