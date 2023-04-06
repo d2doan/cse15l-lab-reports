@@ -7,4 +7,4 @@ the members of my group 4 are:
 * Luis
 * Ryan
 
-this is a link to my github: [Link](https://d2doan.github.io/cse15l-lab-reports/)
+this is a link to my github: [Diana Git](https://d2doan.github.io/cse15l-lab-reports/)
