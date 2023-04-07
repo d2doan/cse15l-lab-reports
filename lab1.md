@@ -5,9 +5,28 @@
 ## ***Purpose:***
 The goal of this lab was to introduce ourselves to using SSH, navigating through terminal, and GitHub to creare content. 
 
-## ***How did it go?***
+## ***Procedure/How did it go?***
 1. Resetting password for CSE15L account: ![Reset Tool](pwResetSS.png)
 <sub>I reset my password before class, and it went pretty smoothly.</sub>
 
 2. Starting up VSCode and opening a terminal: ![VSCode](vscodeSS.png)
-3. Successfully logging into SSH through *ieng6* client (*not sure if this is the right terminology?*): ![SSH log](sshLogin.png)
+3. Successfully logging into SSH through *ieng6* server (*not sure if this is the right terminology?*): ![SSH log](sshLogin.png)
+<sub>By using 15L-specific username and reset password, our laptops became the clients of the ieng6 server. The output shows the last login date and other miscellaneous information.</sub>
+
+4. Exploring different terminal commands:
+{insert the definitions and ss of examples}
+
+5. Creating a GitHub repository and beginning our GitHub journey: 
+<sub>We created our first repositories, created some markdown (md) files, and played around with md shortcuts. Ultimately, this lab report was made using the basic skills introduced by the lab!</sub>
+
+## ***Conclusion***
+At the beginning of the lab, most of the members of the group established that this was the first time we were touching any of this content, outside of VSCode. Some were quick to log-in to SSH, and others took a little longer (mostly as a result of servers closing on their own?). Eventually, we were all playing around with the terminal commands, discovering interesting things about the directories made for the class. GitHub was fun and interesting to get started with. I was awkwardly fumbling around the interface at first, but after some practice, especially through this report, I believe I've gotten down some of the basics of md files. Overall, the lab was a good starter assignment that helped us ease into the class content.
+
+```
+## ***Notes (gibberish):***
+* explore more md shortcuts (fonts, size, colors, etc.)
+* explore more terminal commands
+* why were ports being closed?
+* no way to organize files in github?
+```
+---
