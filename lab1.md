@@ -7,7 +7,7 @@ The goal of this lab was to introduce ourselves to using SSH, navigating through
 
 
 ## ***Procedure/How did it go?***
-1. Resetting password for CSE15L account: ![Reset Tool](pwResetSS.png){:height=50% width=50%}
+1. Resetting password for CSE15L account: ![Reset Tool](pwResetSS.png){:height="50px" width="50px"}
 <sub>I reset my password before class, and it went pretty smoothly.</sub>
 
 2. Starting up VSCode and opening a terminal: ![VSCode](vscodeSS.png)
