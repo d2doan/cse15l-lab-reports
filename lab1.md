@@ -7,15 +7,28 @@ The goal of this lab was to introduce ourselves to using SSH, navigating through
 
 
 ## ***Procedure/How did it go?***
-1. Resetting password for CSE15L account: ![Reset Tool](pwResetSS.png){:height="50px" width="50px"} <img src="pwResetSS.png" alt="Reset Tool" width="50%" height="50%">
+1. Resetting password for CSE15L account: <img src="pwResetSS.png" alt="Reset Tool" width="50%" height="50%">
 <sub>I reset my password before class, and it went pretty smoothly.</sub>
 
-2. Starting up VSCode and opening a terminal: ![VSCode](vscodeSS.png)
-3. Successfully logging into SSH through *ieng6* server (*not sure if this is the right terminology?*): ![SSH log](sshLogin.png)
-<sub>By using 15L-specific username and reset password, our laptops became the clients of the ieng6 server. The output shows the last login date and other miscellaneous information.</sub>
+2. Starting up VSCode and opening a terminal: <img src="vscodeSS.png" alt="VSCode" width="50%" height="50%">
+VSCode should already be downloaded on most students' devices, but if not, follow this [link](https://code.visualstudio.com/download) to download.
+
+After opening up VSCode, navigate to the upper menu Terminal < New Terminal *OR* use shortcut Ctrl + `. 
+
+3. Successfully logging into SSH through *ieng6* server (*not sure if this is the right terminology?*): <img src="sshLogin.png" alt="SSH Login" width="50%" height="50%">
+<sub>By using 15L-specific username and reset password, our laptops became the clients of the ieng6 server. The output shows the last login date and other miscellaneous information.
+* Type **ssh cs15lsp23__@ieng6.ucsd.edu** into the terminal.
+* Type in your password + Enter
+* Respond 'yes' + enter to the consequent question and boom!
+</sub>
 
 4. Exploring different terminal commands:
-{insert the definitions and ss of examples}
+Here's a [link](https://www.hostinger.com/tutorials/ssh/basic-ssh-commands) to some useful SSH commands.
+
+Some commands in practie:
+<img src="sshCom1.png" alt="SSH Com1" width="50%" height="50%">
+<sub>*Ends up listing all the student directories in the class (not accesible by non-admin users).*</sub>
+<img src="sshCom2.png" alt="SSh Com2" width="50%" height="50%">
 
 5. Creating a GitHub repository and beginning our GitHub journey: 
 <sub>We created our first repositories, created some markdown (md) files, and played around with md shortcuts. Ultimately, this lab report was made using the basic skills introduced by the lab!</sub>
