@@ -15,7 +15,8 @@ The goal of this lab was to introduce ourselves to using SSH, navigating through
 
 </br>
 
-2. Starting up VSCode and opening a terminal: <br>
+2. Starting up VSCode and opening a terminal: 
+<br/>
 <img src="vscodeSS.png" alt="VSCode" width="50%" height="50%"> 
 <br/>
 VSCode should already be downloaded on most students' devices, but if not, follow this [link](https://code.visualstudio.com/download) to download. 
@@ -35,11 +36,12 @@ After opening up VSCode, navigate to the upper menu Terminal < New Terminal *OR*
 
 </br>
 
-4. Exploring different terminal commands: <br>
-Here's a [link](https://www.hostinger.com/tutorials/ssh/basic-ssh-commands) to some useful SSH commands. <br>
+4. Exploring different terminal commands: 
+<br>
+Here's a [link](https://www.hostinger.com/tutorials/ssh/basic-ssh-commands) to some useful SSH commands. <br/>
 
-Some commands in practie: <br>
-<img src="sshCom1.png" alt="SSH Com1" width="50%" height="50%"> <br>
+Some commands in practie: <br/>
+<img src="sshCom1.png" alt="SSH Com1" width="50%" height="50%"> <br/>
 <sub>*Ends up listing all the student directories in the class (not accesible by non-admin users).*</sub> 
 <br/>
 <img src="sshCom2.png" alt="SSh Com2" width="50%" height="50%">
