@@ -7,8 +7,8 @@ The goal of this lab was to introduce ourselves to using remote access, navigati
 
 
 ## ***Procedure/How did it go?*** 
-1. Resetting password for CSE15L account: <br>
-<img src="pwResetSS.png" alt="Reset Tool" width="50%" height="50%"> <br>
+1. Resetting password for CSE15L account: <br/>
+<img src="pwResetSS.png" alt="Reset Tool" width="50%" height="50%"> <br/>
 * Visit the [account lookup](https://sdacs.ucsd.edu/~icc/index.php) to find account and reset password.
 * Write the password down somewhere, in case there are issues with logging in later.
 <br>
@@ -21,18 +21,16 @@ VSCode should already be downloaded on most students' devices, but if not, follo
 After opening up VSCode, navigate to the upper menu Terminal > New Terminal OR use shortcut Ctrl + back-tick (closing apostrophe). 
 <br>
 
-
 </br>
 
 3. Successfully logging into SSH through *ieng6* server (*not sure if this is the right terminology?*): <br/>
 <img src="sshLogin.png" alt="SSH Login" width="50%" height="50%"> <br/>
 <sub>By using 15L-specific username and reset password, our laptops became the clients of the ieng6 server. The output shows the last login date and other miscellaneous information. </sub> <br/>
 </br>
-  Steps: 
+Steps: 
 * Type `ssh cs15lsp23__@ieng6.ucsd.edu` into the terminal.
 * Type in your password + Enter
 * Respond 'yes' + Enter to the consequent question and boom!
-
 <br>
 
 </br>
