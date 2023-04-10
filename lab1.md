@@ -18,7 +18,7 @@ The goal of this lab was to introduce ourselves to using remote access, navigati
 2. Starting up VSCode and opening a terminal: <br/>
 <img src="vscodeSS.png" alt="VSCode" width="50%" height="50%"> <br/>
 VSCode should already be downloaded on most students' devices, but if not, follow this [link](https://code.visualstudio.com/download) to download. <br/>
-After opening up VSCode, navigate to the upper menu Terminal < New Terminal OR use shortcut Ctrl + back-tick (closing apostrophe). 
+After opening up VSCode, navigate to the upper menu Terminal > New Terminal OR use shortcut Ctrl + back-tick (closing apostrophe). 
 <br>
 
 
