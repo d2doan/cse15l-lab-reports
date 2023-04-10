@@ -60,6 +60,5 @@ Notes (this is not code, just wanted to try the shortcut):
 * explore more terminal commands
 * why were ports being closed?
 * no way to organize files in github?
-* resize images?
 ```
 ---
