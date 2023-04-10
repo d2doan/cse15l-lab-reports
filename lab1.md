@@ -19,8 +19,8 @@ The goal of this lab was to introduce ourselves to using SSH, navigating through
 <br/>
 <img src="vscodeSS.png" alt="VSCode" width="50%" height="50%"> 
 <br/>
-VSCode should already be downloaded on most students' devices, but if not, follow this [link](https://code.visualstudio.com/download) to download. 
-After opening up VSCode, navigate to the upper menu Terminal < New Terminal *OR* use shortcut Ctrl + back-tick (closing apostrophe). 
+VSCode should already be downloaded on most students' devices, but if not, follow this [link](https://code.visualstudio.com/download) to download. <br/>
+After opening up VSCode, navigate to the upper menu Terminal < New Terminal OR use shortcut Ctrl + back-tick (closing apostrophe). 
 <br>
 
 </br>
@@ -37,7 +37,7 @@ After opening up VSCode, navigate to the upper menu Terminal < New Terminal *OR*
 </br>
 
 4. Exploring different terminal commands: 
-<br>
+<br/>
 Here's a [link](https://www.hostinger.com/tutorials/ssh/basic-ssh-commands) to some useful SSH commands. <br/>
 
 Some commands in practie: <br/>
