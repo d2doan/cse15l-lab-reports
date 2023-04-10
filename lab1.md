@@ -43,7 +43,7 @@ Some commands in practice: <br/>
 <sub>*[Ends up listing all the student directories in the class (not accesible by non-admin users).]*</sub> 
 <br>
 </br>
-<img src="sshCom2.png" alt="SSh Com2" width="60%" height="60%">
+<img src="sshCom2.png" alt="SSh Com2" width="55%" height="55%">
 <br>
 
 </br>
@@ -54,11 +54,11 @@ We created our first repositories, created some markdown (md) files, and played 
 
 </br>
 
-## ***Conclusion***
+## ***Reflection***
 At the beginning of the lab, most of the members of the group established that this was the first time we were touching any of this content, outside of VSCode. Some were quick to log-in to SSH, and others took a little longer (mostly as a result of servers closing on their own?). Eventually, we were all playing around with the terminal commands, discovering interesting things about the directories made for the class. GitHub was fun and interesting to get started with. I was awkwardly fumbling around the interface at first, but after some practice, especially through this report, I believe I've gotten down some of the basics of md files. Overall, the lab was a good starter assignment that helped us ease into the class content.
 
 ```
-## ***Notes (this is not code, just wanted to try the shortcut):***
+Notes (this is not code, just wanted to try the shortcut):
 * explore more md shortcuts (fonts, size, colors, etc.)
 * explore more terminal commands
 * why were ports being closed?
