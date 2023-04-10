@@ -3,7 +3,7 @@
 *Date: 4/6/23*
 
 ## ***Purpose:***
-The goal of this lab was to introduce ourselves to using SSH, navigating through terminal, and GitHub to creare content. 
+The goal of this lab was to introduce ourselves to using remote access, navigating through SSH terminal, and GitHub to create content. 
 
 
 ## ***Procedure/How did it go?*** 
