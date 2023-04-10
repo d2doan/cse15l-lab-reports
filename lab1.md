@@ -27,7 +27,7 @@ After opening up VSCode, navigate to the upper menu Terminal > New Terminal OR u
 3. Successfully logging into SSH through *ieng6* server (*not sure if this is the right terminology?*): <br>
 <img src="sshLogin.png" alt="SSH Login" width="50%" height="50%"> <br>
 <sub>By using 15L-specific username and reset password, our laptops became the clients of the ieng6 server. The output shows the last login date and other miscellaneous information. </sub> <br>
-<br>
+<br/>
   Steps: 
 * Type `ssh cs15lsp23__@ieng6.ucsd.edu` into the terminal.
 * Type in your password + Enter
