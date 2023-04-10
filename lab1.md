@@ -35,13 +35,13 @@ After opening up VSCode, navigate to the upper menu Terminal < New Terminal OR u
 
 </br>
 
-4. Exploring different terminal commands: 
-<br/>
+4. Exploring different terminal commands: <br/>
 Here's a [link](https://www.hostinger.com/tutorials/ssh/basic-ssh-commands) to some useful SSH commands. <br/>
 
 Some commands in practice: <br/>
 <img src="sshCom1.png" alt="SSH Com1" width="50%" height="50%"> <br/>
-<sub>*Ends up listing all the student directories in the class (not accesible by non-admin users).*</sub> <br/>
+<sub>*Ends up listing all the student directories in the class (not accesible by non-admin users).*</sub> 
+<br/>
 <img src="sshCom2.png" alt="SSh Com2" width="50%" height="50%">
 <br>
 
