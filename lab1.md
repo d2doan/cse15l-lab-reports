@@ -1,4 +1,4 @@
-# **Lab Report 1**
+# **Lab Report 1 - Remote Access and FileSystem**
 ---
 *Date: 4/6/23*
 
@@ -43,7 +43,7 @@ Some commands in practice: <br/>
 <sub>*[Ends up listing all the student directories in the class (not accesible by non-admin users).]*</sub> 
 <br>
 </br>
-<img src="sshCom2.png" alt="SSh Com2" width="50%" height="50%">
+<img src="sshCom2.png" alt="SSh Com2" width="60%" height="60%">
 <br>
 
 </br>
