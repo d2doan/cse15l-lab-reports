@@ -20,7 +20,7 @@ The goal of this lab was to introduce ourselves to using remote access, navigati
 VSCode should already be downloaded on most students' devices, but if not, follow this [link](https://code.visualstudio.com/download) to download. <br/>
 After opening up VSCode, navigate to the upper menu Terminal > New Terminal OR use shortcut Ctrl + back-tick (closing apostrophe). 
 <br>
-
+<br>
 
 3) Successfully logging into SSH through *ieng6* server (*not sure if this is the right terminology?*): <br/>
 <img src="sshLogin.png" alt="SSH Login" width="50%" height="50%"> <br/>
@@ -31,8 +31,7 @@ Steps:
 * Type in your password + Enter
 * Respond 'yes' + Enter to the consequent question and boom!
 <br>
-
-</br>
+<br>
 
 4) Exploring different terminal commands: <br/>
 Here's a [link](https://www.hostinger.com/tutorials/ssh/basic-ssh-commands) to some useful SSH commands. <br/>
@@ -44,13 +43,13 @@ Some commands in practice: <br/>
 <img src="sshCom2.png" alt="SSh Com2" width="55%" height="55%">
 <br>
 
-</br>
+
 
 5) Creating a GitHub repository and beginning our GitHub journey: <br>
 We created our first repositories, created some markdown (md) files, and played around with md shortcuts. Ultimately, this lab report was made using the basic skills introduced by the lab!
 <br>
 
-</br>
+
 
 ## ***Reflection***
 At the beginning of the lab, most of the members of the group established that this was the first time we were touching any of this content, outside of VSCode. Some were quick to log-in to SSH, and others took a little longer (mostly as a result of ports closing on their own). Eventually, we were all playing around with the terminal commands, discovering interesting things about the directories made for the class. GitHub was fun and interesting to get started with. I was awkwardly fumbling around the interface at first, but after some practice, especially through this report, I believe I've gotten down some of the basics of md files. Overall, the lab was a good starter assignment that helped us ease into the class content.
