@@ -1,5 +1,5 @@
-#**Lab Report 2**#
+#Lab Report 2
 
-##***Purpose***##
+##*Purpose*
 Experiment with jUnit by debugging code.
 
