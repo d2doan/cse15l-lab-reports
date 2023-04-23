@@ -136,7 +136,7 @@ Output:<br/>
 *The OutOfMemoryError is basically saying that Java has run out of space to hold all the values that it is being asked to hold, which implies that there is an infinite loop somewhere in LinkedList.append().*<br/>
 <br/>
 
-To fix the method, I just pulled the last line within the while loop, outside, so the method doesn’t keep adding Nodes to the linked list.</br>
+To fix the method, I just pulled the last line within the while loop, outside, so the method doesn’t keep adding Nodes to the linked list.<br/>
 *This is the result after running the same input through the corrected code.*<br/>
 <br/>
 <img src="passTestsCorrect.png" alt="fork" height="70%" width="70%"><br/>
