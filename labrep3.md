@@ -1,6 +1,6 @@
 # **Lab Report 3**
 ---
-***Date: 5/8/23***
+*Date: 5/8/23*
 ## ***Purpose:***
 To explore a few command line options for the `grep` command.
 
