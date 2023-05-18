@@ -37,7 +37,7 @@ because, in the given path, the "chapter-13.3.txt" file contains one line that i
 
 <br/>
 
-## **Exploring Options**
+### **Exploring Options**
 ___
 That's essentially how `grep` works without any modifications or options. Here are 4 of the several options: <br/>
 
