@@ -213,7 +213,8 @@ $ grep -A 1 "antibiotic" technical/biomed/1476-0711-2-3.txt
 <sub>This one is a bit long, but it essentially demonstrates the same thing as the previous result.</sub><br/>
 This command can be useful when you need a refresher on the content surrounding a certain topic, and there are too many files to manually go through. <br/>
 
-* ***-v*** : returns all lines that *don't* match the taregt string<br/>
+* ***-v*** : returns all lines that *don't* match the target string<br/>
+
 ```
 $ grep -v "the" technical/911report/preface.txt 
         
@@ -253,8 +254,9 @@ $ grep -v "the" technical/911report/preface.txt
             Thomas H. Kean, chair
             Lee H. Hamilton, vice chair
 ```
-<sub>This examples is trivial and is just to show the basic function of the command line option.</sub><br/>
+<sub>This example is trivial and is just to show the basic function of the command line option.</sub><br/>
 <br/>
+
 ```
 grep -v "pharma" technical/plos/pmed.0020281.txt
         
@@ -287,7 +289,7 @@ grep -v "pharma" technical/plos/pmed.0020281.txt
         redeemed social condition; to know even one life breathed easier because you have lived;
         this is to have succeeded [as a whistleblower].”
 ```
-Now, the content is a little more useful. You could use a command similar to this to check if a passasge is staying on-topic. In this case, the journal should be about pharmaceuticals, so it would be important to check the content that does not directly mention pharmacy.<br/>
+Now, the content is a little more useful. You could use a command similar to this to check if a passasge is staying on-topic. In this case, the journal should be about pharmaceuticals, so it would be important to check the relevancy of content that does not directly mention pharmacy.<br/>
 
 ---
 ## ***Reflection***
