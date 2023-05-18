@@ -5,7 +5,7 @@
 To explore a few command line options for the `grep` command.
 
 ## ***Procedure/How Did It Go?*** 
-1) Open a terminal with files/directories available in VSCode. <br/>
+To try some of the later commands, open a terminal with files/directories available in VSCode. <br/>
 
 [Info about grep (my source is linked)](https://www.geeksforgeeks.org/grep-command-in-unixlinux/):<br/>
 
@@ -16,10 +16,9 @@ Excluding all the specific text files that will be accessed in this lab, here's 
 >> government<br/>
 >> plos<br/>
 
-<br>
+  
+  
 
-
-</br>
 
 In general, `grep` finds specific lines in files that include the target string. It returns results that are similar to `cat`. <br/>
 <br/>
@@ -38,8 +37,9 @@ because, in the given path, the "chapter-13.3.txt" file contains one line that i
 
 <br/>
 
-
-That's essentially how `grep` works without any modifications or options. Here are 4 of the several options: </br>
+## **Exploring Options**
+___
+That's essentially how `grep` works without any modifications or options. Here are 4 of the several options: <br/>
 
 * ***-c*** : (*c*ount) returns the number of lines that match the target string, and DOES NOT return the actual lines. <br/>
 
@@ -151,6 +151,8 @@ $ grep -A 2 "good science" technical/plos/pmed.0010056.txt
         experimentalists to turn the collaboration's Web pages into grant proposals.
         That said, TDI's volunteers will be most productive if sponsors back them. Charities
 ```
+Something like this could be useful when writing an article, blurb, or abstract, where you need to see the context surrounding certain buzzwords or terminology.<br/>
+  
 ```
 $ grep -A 1 "antibiotic" technical/biomed/1476-0711-2-3.txt
         antibiotics on CRI.
