@@ -260,7 +260,7 @@ $ grep -v "the" technical/911report/preface.txt
 <br/>
 
 ```
-grep -v "pharma" technical/plos/pmed.0020281.txt
+$ grep -v "pharma" technical/plos/pmed.0020281.txt
         
         Whistleblowers serve no function if they cannot tell their stories. The present story of
         whistleblowing—as discussed, in part, in 
