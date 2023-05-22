@@ -30,11 +30,11 @@ The jUnit test results tell us that there seems to be a bug in the ListExample.j
 ### ***Now that we're in vim...***
 ___
 Without typing, the initial mode will be normal mode. <br/>
-![norm](listNormMode.png)
+<img src= "listNormMode.png" alt="norm" height="50%" width="50%"><br/>
 
 Still in normal mode, and without worrying about the cursor, just type **`/index1`** + **`<enter>`** to navigate to the first occurence of 'index1' in the code. This isn't the instance we want to edit, so press **`n`** 9 times (or however many times it takes to get to the line directly under the comment). <br/>
 <br/>
-![find](findIndex.png)<br/>
+<img src= "findIndex.png" alt="find" height="40%" width="40%"><br/>
 
 Type **`e`** (takes you to the last character of the word your cursor is on),<br/>
 then, type **`a`** (enters insert mode and moves the cursor one character to the right).<br/>
@@ -55,8 +55,10 @@ After using either method, we're now in insert mode and are able to make changes
 <sub>Alternatively, you can use :wq to save and quit at once.</sub><br/>
 
 <br/>
+<br/>
 
 The code is now fixed, so to test that it in fact works, run the test.sh again in terminal (**`bash test.sh`**). Your output should now look like this:<br/>
+<br/>
 ![test pass](testsPass.png)<br/>
 <sub>Observe the result of the bash command near the bottom of the picture.</sub>
 
@@ -71,17 +73,31 @@ Because your GitHub account should be associated to your student account via an 
 <br/>
 
 Type `git add ListExamples.java` + `<enter>` to add ListExamples.java to the GitHub stage <br/>
+<br/>
 ![add](gitAdd.png)<br/>
+<br/>
+<br/>
+
 Type `git commit -m "[a useful message to describe the change]"` + `<enter>` to commit (duh) <br/>
+<br/>
 ![commit](gitCommit.png)<br/>
+<br/>
+<br/>
+
 Type `git push` + `<enter>` to officially push your changes to the repository (yay!) <br/>
+<br/>
 ![push](gitPush.png)<br/>
+<br/>
+<br/>
   
 > In addition, you can use `git status` to see what your stage/workspace currently looks like, or `git log` to see the commit history of your repository.
 
-
+<br/>
 In the end, when you check your GitHub repository, you should see the change in your ListExample.java file along with your commit message:<br/>
-![github](vimResult.png)<br/>
+<br/>
+<img src= "vimResult.png" alt="result" height="45%" width="45%"><br/>
+<sub>Take note of the commit message given next to the title of the file that was changed. This works kind of as proof that the changes went through successfully, while also giving insight to the changes made.</sub><br/>
+<br/>
 <br/>
 
 ## **Reflection**
