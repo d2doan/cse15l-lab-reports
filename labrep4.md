@@ -34,6 +34,7 @@ Without typing, the initial mode will be normal mode. <br/>
 
 Still in normal mode, and without worrying about the cursor, just type **`/index1`** + **`<enter>`** to navigate to the first occurence of 'index1' in the code. This isn't the instance we want to edit, so press **`n`** 9 times (or however many times it takes to get to the line directly under the comment). <br/>
 <br/>
+![find](findIndex.png)<br/>
 
 Type **`e`** (takes you to the last character of the word your cursor is on),<br/>
 then, type **`a`** (enters insert mode and moves the cursor one character to the right).<br/>
@@ -47,7 +48,7 @@ From the initial normal mode, use up, down, left, right keys (`k`, `j`, `h`, `l`
 
 <br/>
 
-![insertMode](insertMode.png)<br/>
+
 After using either method, we're now in insert mode and are able to make changes to the text. Simple press **`<backspace>`** + **`2`** to change 'index1' to 'index2'. The code is now corrected. Re-enter normal by pressing `<escp>`. <br/>
 
 ***Before you exit vim completely, save your work by typing `:w`, then finally, `:q` to quit vim.***<br/>
@@ -56,7 +57,8 @@ After using either method, we're now in insert mode and are able to make changes
 <br/>
 
 The code is now fixed, so to test that it in fact works, run the test.sh again in terminal (**`bash test.sh`**). Your output should now look like this:<br/>
-![test pass](testsPass.png)
+![test pass](testsPass.png)<br/>
+<sub>Observe the result of the bash command near the bottom of the picture.</sub>
 
 <br/>
 
@@ -77,6 +79,10 @@ Type `git push` + `<enter>` to officially push your changes to the repository (y
   
 > In addition, you can use `git status` to see what your stage/workspace currently looks like, or `git log` to see the commit history of your repository.
 
+
+In the end, when you check your GitHub repository, you should see the change in your ListExample.java file along with your commit message:<br/>
+![github](vimResult.png)<br/>
+<br/>
 
 ## **Reflection**
 ___
