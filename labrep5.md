@@ -8,7 +8,7 @@ To replicate a TA-student interaction, then reflect on the content of the class.
 ---
 
 ### ***Part 1 (Scenario)***
-<sub>*Note: TA response is italicized, student is bolded.</sub><br/>
+<sub>*Note: TA response is italicized, student is bolded.*</sub><br/>
 (Link to the student's [repository](https://github.com/d2doan/forLab5))<br/>
 <br/>
 **Student:**<br/>
